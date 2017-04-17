@@ -1,6 +1,6 @@
 ---
 layout: page
-title: O projektu
+title: about
 ---
 
 <<<<<<< HEAD
@@ -12,7 +12,7 @@ title: O projektu
 
 
 <h1>Název webu:</h1> 
-<p> Začni znova s Jill</p> 
+<p> Začni znovu s Jill</p> 
 
 <h1>Internet – studnice vědění – místa, kde čerpat inspiraci i zvyšovat motivaci:</h1> 
 <p> https://www.facebook.com/groups/585168858214253/
